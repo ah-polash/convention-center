@@ -8,13 +8,13 @@ footer{font-family: 'Manrope', sans-serif;}
 h2{font-size: 38px; font-weight: 600;}
 
 
-
+.card-title{font-size: 14px; font-weight: 600;}
 .navbar_right{justify-content: flex-end;}
 .moments, .testimonial_section{margin-top: 75px;}
 .client_img{width: 100px;}
 .footer-section{background-color: black;}
 .copy_text{color: white;}
-
+.client-name{color: #747474;font-size:12px}
 
 
 
